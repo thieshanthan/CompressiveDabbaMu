@@ -1,5 +1,8 @@
 # Differentiable Microscopy for Content and Task Aware Compressive Imaging
 
+The code repository for our paper: [Differentiable Microscopy for Content and Task Aware Compressive Fluorescence Imaging
+](https://arxiv.org/abs/2203.14945)
+
 ## Reproducing results
 
 We encourage to use [conda package manager](https://docs.conda.io/en/latest/) for reproducing the results.
